@@ -25,7 +25,7 @@ Item Form
 ![Item Form Screenshot](Screenshots/ItemForm.png)
 
 Item Form Edit Data
-![Category Form Edit Data Screenshot](Screenshots/CategoryFormEditData.png)
+![Category Form Edit Data Screenshot](Screenshots/ItemFormEditData.png)
 
 View And Search Categories and Items Form
 ![View And Search Categories and Items Form Screenshot](Screenshots/ViewDetailFormSearchData.png)
