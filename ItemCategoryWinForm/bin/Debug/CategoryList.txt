@@ -1,0 +1,4 @@
+101 Drink
+104 Glass
+106 Food
+103 Plastic
